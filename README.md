@@ -1,7 +1,6 @@
 # Learn how to use Git and Github
 
-I'm learning how to use Git and Github, following the tips that Willian Justen teaches on his youtube channel.
-![Willian - Youtube](https://www.youtube.com/playlist?list=PLlAbYrWSYTiNqugqFFWWsgONJsmc3eMpg)
+I'm learning how to use Git and Github, following the tips that [Willian Justen](https://www.youtube.com/playlist?list=PLlAbYrWSYTiNqugqFFWWsgONJsmc3eMpg) teaches on his youtube channel.
 
 Big Picture by HTML5 UP
 html5up.net | @ajlkn
